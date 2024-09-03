@@ -13,9 +13,6 @@ To run the analysis, you need to have Python and the following packages installe
 - `pandas`
 - `scikit-learn`
 
-You can install the required packages using pip:
-
-```bash
 pip install numpy pandas scikit-learn
 Usage
 Load the Dataset
@@ -63,7 +60,7 @@ To run the analysis, you need to have Python and the following packages installe
 
 You can install the required packages using pip:
 
-```bash
+bash
 pip install numpy pandas scikit-learn
 Usage
 Load the Dataset

@@ -47,15 +47,6 @@ Feel free to customize this as needed for your specific project.
 
 
 
-
-You said:
-write all down to make it copy-able
-ChatGPT said:
-ChatGPT
-Certainly! Here’s the README.md content in a copyable format:
-
-markdown
-Copy code
 # Airline Delay Cause Prediction
 
 ## Description
